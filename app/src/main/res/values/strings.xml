@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Refre and earn</string>
+    <string name="txt1">Refer Your Freind &amp;Earn 500</string>
+    <string name="txt2">Refer your freind to book a property with your referral code. When your Freind\s stay begins both of you get Rs.500 each</string>
+    <string name="invitation_title">Refer And Earn</string>
+    <string name="invitation_message">Very Nice App to find hostels for You and Your Loved Ones.We both get Rs.500 on installing it. </string>
+    <string name="invitation_deep_link">https://www.google.co.in</string>
+    <string name="invitation_custom_image">http://www.techmarshals.com/wp-content/uploads/2017/11/Refer-Earn.png</string>
+    <string name="invitation_cta"></string>
+</resources>
